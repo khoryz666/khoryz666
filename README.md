@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=khoryz666&theme=transparent&hide_border=true" alt="commit streak" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khoryz666&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khoryz666&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="top languages" />
   <img src="https://leetcard.jacoblin.cool/khoryz666?theme=nord&font=noto_sans" alt="leetcode stats" />
 </p>
 
