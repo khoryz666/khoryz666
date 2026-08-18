@@ -27,9 +27,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="sql" />
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=khoryz666&theme=transparent&hide_border=true" alt="commit streak" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khoryz666&layout=compact&langs_count=3&theme=transparent&hide_border=true" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khoryz666&langs_count=3&theme=transparent&hide_border=true" alt="top languages" />
   <img src="https://leetcard.jacoblin.cool/khoryz666?theme=nord&font=noto_sans" alt="leetcode stats" />
 </p>
 
