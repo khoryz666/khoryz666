@@ -33,9 +33,3 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khoryz666&langs_count=3&theme=transparent&hide_border=true" alt="top languages" /><br>
   <img src="https://leetcard.jacoblin.cool/khoryz666?theme=nord&font=noto_sans" alt="leetcode stats" />
 </p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoryz666&theme=minimal&hide_border=true" alt="contribution graph" />
-</p>
