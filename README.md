@@ -11,25 +11,44 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="react" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="sql" />
+  <a href="https://user-badge.committers.top/malaysia/khoryz666">
+    <img src="https://user-badge.committers.top/malaysia/khoryz666.svg" alt="committers.top badge" />
+  </a>
 </p>
 
-<br/>
+---
+
+## Experience
+
+| Role | Organization | Period | Focus |
+| --- | --- | --- | --- |
+| **Software Engineer** (Freelance) | Kyodo Engineering | Dec 2025 – Present | Full-stack project management platform (React, TypeScript, Tailwind, Supabase, PostgreSQL); knapsack-algorithm cutting optimization to reduce material waste |
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khoryz666&theme=transparent&hide_border=true" alt="commit streak" /><br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khoryz666&langs_count=3&theme=transparent&hide_border=true" alt="top languages" /><br>
-  <img src="https://leetcard.jacoblin.cool/khoryz666?theme=nord&font=noto_sans" alt="leetcode stats" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,rust,ubuntu,terraform,docker,podman,html,css,tailwind,react,vite,astro,nodejs,postgres,sqlite,supabase,aws,firebase,cloudflare,vercel,git,github,githubactions,linux,vscodium,npm,powershell,discord&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=khoryz666&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=khoryz666&hide_title=true&hide=prs%2Cactive_day%2Cgrade%2Ccontributions%2Cstreak%2Cstars%2Crepos%2Cavg%2Cfollowers" alt="GitHub Stats Card" width="48%" />
+  <img src="https://ghstats.dev/api/langs?username=khoryz666&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/khoryz666?theme=dark&font=Khand" alt="LeetCode Stats" />
 </p>
