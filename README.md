@@ -29,7 +29,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,rust,nix,ubuntu,terraform,docker,bash,html,css,tailwind,react,vite,astro,nodejs,postgres,sqlite,supabase,aws,firebase,cloudflare,vercel,git,github,githubactions,linux,vscodium,npm,powershell,discord&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,rust,nix,ubuntu,terraform,docker,bash,html,css,tailwind,react,vite,astro,nodejs,postgres,sqlite,supabase,aws,firebase,cloudflare,vercel,git,github,githubactions,linux,vscodium,npm,powershell&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
