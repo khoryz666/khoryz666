@@ -28,8 +28,24 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,rust,nix,ubuntu,docker,bash,html,css,tailwind,react,vite,nodejs,postgres,sqlite,supabase,aws,cloudflare,git,github,githubactions,linux,vscodium,npm,powershell&theme=dark" alt="Tech Stack" />
+<p align="center"><samp>languages</samp><br />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,rust,bash,powershell,nix&theme=dark" alt="languages" />
+</p>
+
+<p align="center"><samp>frontend</samp><br />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite&theme=dark" alt="frontend" />
+</p>
+
+<p align="center"><samp>backend &amp; data</samp><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,postgres,sqlite,supabase&theme=dark" alt="backend & data" />
+</p>
+
+<p align="center"><samp>cloud &amp; devops</samp><br />
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,githubactions&theme=dark" alt="cloud & devops" />
+</p>
+
+<p align="center"><samp>tools &amp; os</samp><br />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscodium&theme=dark" alt="tools & os" />
 </p>
 
 ---
