@@ -34,6 +34,7 @@
   <tr><td><samp>backend &amp; data</samp></td><td><img src="https://skillicons.dev/icons?i=nodejs,npm,postgres,sqlite,supabase&theme=dark" height="36" alt="backend & data" /></td></tr>
   <tr><td><samp>cloud &amp; devops</samp></td><td><img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,githubactions&theme=dark" height="36" alt="cloud & devops" /></td></tr>
   <tr><td><samp>tools &amp; os</samp></td><td><img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,mint,vscodium&theme=dark" height="36" alt="tools & os" /></td></tr>
+  <tr><td><samp>agentic ai</samp></td><td><img src="assets/ai.svg" height="36" alt="agentic ai" /></td></tr>
 </table>
 
 ---
