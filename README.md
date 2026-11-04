@@ -45,11 +45,6 @@
   <img src="https://streak-stats.demolab.com/?user=khoryz666&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=khoryz666&hide_title=true&hide=prs%2Cactive_day%2Cgrade%2Ccontributions%2Cstreak%2Cstars%2Crepos%2Cavg%2Cfollowers" alt="GitHub Stats Card" width="48%" />
-  <img src="https://ghstats.dev/api/langs?username=khoryz666&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ## LeetCode Progress
