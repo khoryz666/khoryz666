@@ -28,25 +28,13 @@
 
 ## Tech Stack
 
-<p align="center"><samp>languages</samp><br />
-  <img src="https://skillicons.dev/icons?i=py,js,ts,rust,bash,powershell,nix&theme=dark" alt="languages" />
-</p>
-
-<p align="center"><samp>frontend</samp><br />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite&theme=dark" alt="frontend" />
-</p>
-
-<p align="center"><samp>backend &amp; data</samp><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,postgres,sqlite,supabase&theme=dark" alt="backend & data" />
-</p>
-
-<p align="center"><samp>cloud &amp; devops</samp><br />
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,githubactions&theme=dark" alt="cloud & devops" />
-</p>
-
-<p align="center"><samp>tools &amp; os</samp><br />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,mint,vscodium&theme=dark" alt="tools & os" />
-</p>
+<table align="center">
+  <tr><td><samp>languages</samp></td><td><img src="https://skillicons.dev/icons?i=py,js,ts,rust,bash,powershell,nix&theme=dark" height="36" alt="languages" /></td></tr>
+  <tr><td><samp>frontend</samp></td><td><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite&theme=dark" height="36" alt="frontend" /></td></tr>
+  <tr><td><samp>backend &amp; data</samp></td><td><img src="https://skillicons.dev/icons?i=nodejs,npm,postgres,sqlite,supabase&theme=dark" height="36" alt="backend & data" /></td></tr>
+  <tr><td><samp>cloud &amp; devops</samp></td><td><img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,githubactions&theme=dark" height="36" alt="cloud & devops" /></td></tr>
+  <tr><td><samp>tools &amp; os</samp></td><td><img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,mint,vscodium&theme=dark" height="36" alt="tools & os" /></td></tr>
+</table>
 
 ---
 
