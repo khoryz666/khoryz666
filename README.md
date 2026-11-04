@@ -45,7 +45,7 @@
 </p>
 
 <p align="center"><samp>tools &amp; os</samp><br />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscodium&theme=dark" alt="tools & os" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,mint,vscodium&theme=dark" alt="tools & os" />
 </p>
 
 ---
